@@ -2,7 +2,9 @@
 
 Asteroids is a classic arcade game, where a space ship moves through space destroying asteroids and occasional alien ships. The difficulty of the game increases as the levels progress. 
 
-### Game Description
+## Game Description
+
+### Levels
 There are three types of asteroids:
 - Large: These typically move very slowly and are large and therefore easier to shoot. When destroyed, two medium sized asteroids are created. These newly created asteroids will move in random directions and with random speeds but generally faster than the large asteroid was moving.
 - Medium: These are a bit smaller than the large asteroids and a bit faster too. When destroyed, two small sized asteroids are created. These newly created asteroids will move in random directions and with random speeds but generally faster than the medium asteroid was moving.
@@ -10,6 +12,7 @@ There are three types of asteroids:
 
 Occasionally, an alien ship will appear and move through the screen from one side to the other. During this movement, it will fire at the players ship. The player can either avoid it or attempt to destroy it.
 
+### Player
 The players ship can perform 5 actions:
 
 <b>Rotate Right</b> - Rotate the ship in the clockwise direction
