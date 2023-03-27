@@ -1,5 +1,6 @@
 # About The Project 
 
+![Game](Png/GameScreenshot.png)
 Asteroids is a classic arcade game, where a space ship moves through space destroying asteroids and occasional alien ships. The difficulty of the game increases as the levels progress. 
 - Press <b>Space</b> to start the game.
 - Press <b>F</b> to fire.
