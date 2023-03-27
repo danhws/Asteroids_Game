@@ -5,7 +5,7 @@ Asteroids is a classic arcade game, where a space ship moves through space destr
 - Press <b>F</b> to fire.
 - Press <b>arrow keys</b> to move.
 - Press <b>J</b> to Hyperspace Jump.
-## Game Description
+
 ### Levels
 The game is based on a series of increasingly more difficult levels. Once each is cleared, the next begins automatically. In the first level there will be only one slow moving asteroid, in the second there will be two and so on.
 
@@ -28,3 +28,10 @@ The players ship can perform 5 actions:
 <b>Apply Thrust</b> - Add speed to the current motion in the direction the ship is currently pointing.
 
 <b>Hyperspace Jump</b> - Disappear from current location and reappear in a new location on the screen.
+
+### Contributors
+- <b>Zhilin Yang</b> - asteroidGame, keyboard, HUD, initializer, shot
+- <b>Daniel Howes</b> - asteroid, saucer, saucershot
+- <b>Mingming Zhang</b> - display, obj, musicstuff, shippropulsion
+- <b>Benjamin Eadie</b> - ship, spark
+
