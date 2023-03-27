@@ -1,9 +1,11 @@
 # About The Project 
 
 Asteroids is a classic arcade game, where a space ship moves through space destroying asteroids and occasional alien ships. The difficulty of the game increases as the levels progress. 
-
+- Press <b>Space</b> to start the game.
+- Press <b>F</b> to fire.
+- Press <b>arrow keys</b> to move.
+- Press <b>J</b> to Hyperspace Jump.
 ## Game Description
-
 ### Levels
 The game is based on a series of increasingly more difficult levels. Once each is cleared, the next begins automatically. In the first level there will be only one slow moving asteroid, in the second there will be two and so on.
 
